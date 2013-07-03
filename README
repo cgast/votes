@@ -1,1 +1,12 @@
-This file was created by JetBrains PhpStorm 6.0.3 for binding GitHub repository
+Mini voting tool for workshops where ideas have to be ranked anonymously by a group.
+
+Every member of the group gets an url to invest a million into a mix of the ideas.
+
+Plain PHP. No database needed: Investments / Votes are stored in a json file. The PHP files must be able to write in the votings directory.
+
+To create a new voting call config.php.
+
+Watch a demo here: http://votes.cgast.de
+
+Cheers!
+
