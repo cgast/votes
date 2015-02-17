@@ -6,7 +6,6 @@ Mini PHP web-voting tool for workshops where ideas have to be ranked anonymously
 
 Plain PHP. No database needed: Investments / Votes are stored in a json file. The PHP files must be able to write in the votings directory.
 
-Watch a demo here: http://vote.cgast.de
 
 Cheers!
 
